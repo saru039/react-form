@@ -1,0 +1,12 @@
+.form{
+  justify-content: center;
+}
+.form-container{
+  margin: 20px;
+  padding: 20px;
+  background-color: aliceblue;
+}
+h1{
+  text-align: center;
+  margin-bottom: 20px !important;
+}
